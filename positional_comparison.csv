@@ -1,0 +1,4 @@
+model,best_val_loss,best_step,final_train_loss,final_val_loss
+baseline,1.4677,1750,0.6188,1.7094
+nope,1.5264,2750,1.071,1.5753
+rope,1.4741,1500,0.5436,1.7522
